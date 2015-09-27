@@ -1,0 +1,24 @@
+header{
+	width: 1200 px;
+	height: 100 px;
+	background-color: #eff3f7;
+}
+.logo{
+float: left;
+}
+.social{
+	float: right;
+}
+/*основной блок*/
+.content{
+	background-color: #eff3f7;
+
+}
+/*Основная информация*/
+.info{
+	border-bottom: 3 px;
+	border-color: red;
+}
+body{
+	background-image: url(../img/bg.png);
+}
