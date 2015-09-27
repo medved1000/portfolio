@@ -1,9 +1,10 @@
 header{
-	width: 1200 px;
-	height: 100 px;
+	width: 1200px;
+	height: 100px;
 	background-color: #eff3f7;
 }
 .logo{
+
 float: left;
 }
 .social{
@@ -15,9 +16,15 @@ float: left;
 
 }
 /*Основная информация*/
-.info{
-	border-bottom: 3 px;
-	border-color: red;
+.content-title{
+	border-bottom: 3px solid red;
+	}
+.avatar{
+	width: 150px;
+	height: 150px;
+	background-image: url(../img/ava.png);
+	border:3px solid red;
+	border-radius: 50px 50px 50px 50px;
 }
 body{
 	background-image: url(../img/bg.png);
